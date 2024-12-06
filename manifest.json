@@ -1,0 +1,17 @@
+{
+    "name": "Sistema de Asistencias",
+    "short_name": "Sistema Asistencias",
+    "theme_color": "#ffe08a",
+    "display":"standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+
+    "icons":[
+        {
+            "src": "imagenpatito.jpeg",
+            "type": "image/jpeg",
+            "sizes": "512x512"
+        }
+    ]
+}
